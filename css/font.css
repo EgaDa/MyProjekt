@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'IM';
+    src: url('../font/Inter/Inter-Medium.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'IR';
+    src: url('../font/Inter/Inter-Regular.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'ISB';
+    src: url('../font/Inter/Inter-SemiBold.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'IT';
+    src: url('../font/Inter/Inter-Thin.ttf') format('truetype')
+}
